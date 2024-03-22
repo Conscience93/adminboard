@@ -9,7 +9,7 @@
 
 ## How to Install
 - Extract zip file and add into xampp's htdocs folder.
-- Create a new database through phpmyadmin or DBeaver (or any other database applicaiton)
+- Create a new database called 'adminboard' through phpmyadmin or DBeaver (or any other database applicaiton)
 - cd into adminboard folder and tyle 'php artisan serve'
 
 ## About Laravel
