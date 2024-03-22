@@ -7,6 +7,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## How to Install
+- Extract zip file and add into xampp's htdocs folder.
+- Create a new database through phpmyadmin or DBeaver (or any other database applicaiton)
+- cd into adminboard folder and tyle 'php artisan serve'
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
