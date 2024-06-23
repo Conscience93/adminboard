@@ -10,7 +10,10 @@
 ## How to Install
 - Extract zip file and add into xampp's htdocs folder.
 - Create a new database called 'adminboard' through phpmyadmin or DBeaver (or any other database applicaiton)
-- cd into adminboard folder and tyle 'php artisan serve'
+- cd into adminboard folder and type 'php artisan optimise' to create the database table
+- Type 'php artisan migrate:refresh --seed' next to add data into the tables in order to log in
+- Finally, type 'php artisan serve' to enable the web application
+- Go to '127.0.0.1:8000' to view
 
 ## About Laravel
 
